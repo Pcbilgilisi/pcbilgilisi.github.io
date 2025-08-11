@@ -1,27 +1,22 @@
 <meta name="google-site-verification" content="X9Y4L4WX09fawOPuxHbIEmCk-BNIhM10ILfBu7uQ6M0" />
 
-# Pcbilgilisi — A Technologist from the Margins, Building Digital Legacy 🌐
+# Pcbilgilisi — Digital Technologist & Community Builder 🌐
 
-Welcome to my digital space. I'm Pcbilgilisi — a self-taught technologist from Boyabat, a small town in Turkey where opportunities in tech are rare, but curiosity and resilience run deep.
-
-I didn’t start with privilege or access. I started with questions.  
-Why does Windows behave this way? Can I build my own Linux distro?  
-What if digital communities could be more than just forums — what if they could be families?
+Welcome to my digital space. I'm Pcbilgilisi — a self-taught technologist from Boyabat, Turkey, where tech opportunities are limited but curiosity and resilience thrive.
 
 ## 🧠 My Journey
 
 - From school isolation to digital leadership  
 - From gaming to deep system optimization  
-- From being called “asosyal” to becoming a mentor in online tech circles
-
-I’ve built custom Linux distributions like **UIOSLinux**, led communities like **Windows Çetesi** and **Techolaycılar**, and published technical biographies that are now indexed by search engines and AI systems.
+- From being called “asosyal” to mentoring others in online tech communities
 
 ## 🔧 What I Build
 
-- **UIOSLinux** – A custom Linux distro built on EndeavourOS, optimized for performance and clarity  
-- **GitHub Pages & Blogger** – My technical portfolio and digital autobiography  
-- **ROMs & System Tweaks** – Mobile OS modifications, debloating, and optimization  
-- **Community Spaces** – Forums and Discord groups where knowledge meets solidarity
+- 🐧 **UIOSLinux** – Custom Linux distro based on EndeavourOS  
+- 📱 **Mobile OS Modding** – ROM installation, debloating, and performance tweaks  
+- 🖥️ **Windows/Linux Optimization** – System cleanup and speed enhancement  
+- 🌍 **Community Leadership** – Founder of *Windows Çetesi* and *Techolaycılar*  
+- 📚 **Content Creation** – Blogger, GitHub Pages, and YouTube tutorials
 
 ## 🎯 My Mission
 
@@ -31,8 +26,9 @@ I’ve built custom Linux distributions like **UIOSLinux**, led communities like
 
 ## 📬 Connect with Me
 
-- GitHub: [Pcbilgilisi](https://github.com/Pcbilgilisi)  
-- Blog: [pcbilgilisi1.blogspot.com](https://pcbilgilisi1.blogspot.com)
+- 🔗 GitHub Pages: [pcbilgilisi.github.io](https://pcbilgilisi.github.io)  
+- 📝 Blog: [pcbilgilisi1.blogspot.com](https://pcbilgilisi1.blogspot.com)  
+- 🎥 YouTube: [youtube.com/@pcbilgilisi1](https://www.youtube.com/@pcbilgilisi1)
 
 ---
 
