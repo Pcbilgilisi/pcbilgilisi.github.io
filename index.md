@@ -1,60 +1,47 @@
 ---
 title: "Pcbilgilisi: A Digital Journey from Boyabat"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 ---
 
-# Pcbilgilisi: A Digital Journey from Boyabat
+# 👋 Welcome, I'm Pcbilgilisi
 
-**Pcbilgilisi** is a Turkish digital enthusiast, content creator, and community leader.  
-Born in 2009 in Boyabat, he has built a unique identity through Linux development, mobile system modification, and forum culture advocacy.
+From the quiet streets of Boyabat to the depths of digital systems,  
+my journey is one of resilience, curiosity, and creation.
 
-## 🕰️ Timeline
+I'm a high school student in software development,  
+but most of what I know comes from self-teaching, experimentation, and community building.
 
-- **2010–2016:** Early exposure to technology through games like Age of Empires III, Minecraft, CS 1.6, Angry Birds  
-- **2017–2019:** Diagnosed with ADHD, restricted from using computers, first YouTube attempts  
-- **2020–2021:** Learned formatting, launched a successful YouTube channel (500+ subscribers), founded Windows Çetesi  
-- **2022–2023:** Gained mobile OS experience (Custom ROMs, TWRP, Root), faced school challenges  
-- **2024–2025:** Created UIOSLinux, led digital communities, embraced strategic thinking
+## 💻 My Digital Identity
 
-## 🧠 Technical Skills
+- Built a custom Linux distribution: **UIOSLinux**  
+- Optimized and debloated Windows and Android systems  
+- Published technical content via GitHub Pages and Blogger  
+- Founded digital communities: **Windows Çetesi**, **Techolaycılar**
 
-| Skill Area           | Level        | Notes |
-|----------------------|--------------|-------|
-| Linux                | Intermediate | Developed [UIOSLinux](https://github.com/Pcbilgilisi/UIOSLinux) based on EndeavourOS |
-| Mobile Systems       | Intermediate | Custom ROMs, Recovery, Root, Preloader knowledge |
-| System Optimization  | Advanced     | Debloating Windows and Linux systems |
-| Technical Support    | Advanced     | Troubleshooting for forums and real-life users |
-| Programming          | Basic        | C#, C, Python |
-| Electronics          | Basic        | Arduino circuits and embedded systems |
-| Community Leadership | Intermediate | Windows Çetesi, Vistacı 3’lü, Techolaycılar |
-| History & Philosophy | Growing      | Interested in historical analysis and philosophical reflection |
+## 🧠 My Philosophy
 
-## 💬 Quotes from Pcbilgilisi
+> “The right person in the wrong place can still leave the right digital legacy.”
 
-> “I may look calm, but I carry heavy burdens.”  
-> “Being in the wrong place doesn’t mean you’re the wrong person.”  
-> “Forum culture teaches more than outdated school curriculums.”  
-> “Digital loneliness made me strategic. Betrayals made me resilient.”  
-> “Boyabat is narrow, but my vision is wide.”
+I’ve faced isolation, misunderstanding, and limited opportunities.  
+But I turned those into strategy, creativity, and connection.
 
-## 🔗 Projects
+I’m not just a hardware guy.  
+I’m a digital storyteller.
 
-- **UIOSLinux** – A lightweight Linux distribution based on EndeavourOS  
-  GitHub: [github.com/Pcbilgilisi/UIOSLinux](https://github.com/Pcbilgilisi/UIOSLinux)  
-  Blog: [uioslinux.blogspot.com](https://uioslinux.blogspot.com)
+## 🎯 My Mission
 
-## 📍 Identity
+- Expand my reach with English content and international visibility  
+- Leave behind a meaningful digital archive: blogs, manifestos, technical guides  
+- Inspire others from small towns to pursue tech fearlessly
 
-> A technocrat from a small town.  
-> A digital thinker who chose creation over protest.  
-> A forum believer in a world of fleeting social media.  
-> Known online as **Pcbilgilisi** — the right person in the wrong place.
+---
 
-## 📫 Contact
+📫 **Connect & Explore:**  
+- [GitHub](https://github.com/pcbilgilisi)  
+- [Blog](https://pcbilgilisi.blogspot.com)  
+- [YouTube](https://www.youtube.com/@pcbilgilisi)
 
-You can follow Pcbilgilisi’s work via:
+---
 
-- GitHub: [github.com/Pcbilgilisi](https://github.com/Pcbilgilisi)  
-- Blog: [pcbilgilisi1.blogspot.com](https://pcbilgilisi1.blogspot.com)
-
-*This page is part of a digital legacy built from resilience, strategy, and belief in open knowledge.*
+🛠️ This page is powered by GitHub Pages.  
+Theme: `jekyll-theme-cayman`
