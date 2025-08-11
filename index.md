@@ -1,32 +1,27 @@
----
-layout: default
-title: Pcbilgilisi – Digital Technocrat from Sinop
-description: Personal portfolio and technical biography of Pcbilgilisi, a resilient digital leader from Türkiye. Explore Linux projects, custom ROMs, and philosophical manifestos.
-keywords: Pcbilgilisi, UIOSLinux, GitHub Pages, Turkish technocrat, custom ROMs, Linux, Windows Çetesi, Techolaycılar, digital manifesto, SEO
----
+<meta name="google-site-verification" content="X9Y4L4WX09fawOPuxHbIEmCk-BNIhM10ILfBu7uQ6M0" />
 
-<!-- Google Site Verification -->
-<meta name="google-site-verification" content="C8uv6jY7apyJo_kohad6uwpIKhpO-JsQbbf0mjyJ6qU" />
+# Welcome to Pcbilgilisi's Digital Space 🌍
 
-# Welcome to Pcbilgilisi’s Digital Space 🌐
+Hi, I'm Pcbilgilisi — a self-taught technologist from a small town in Turkey, building digital communities and crafting operating systems with passion and precision.
 
-I’m a self-taught technocrat from Sinop, Türkiye — passionate about operating systems, mobile modding, and digital community building.  
-This site is my personal archive: technical projects, manifestos, and reflections.
+## 💻 What I Do
 
-## 🔧 Projects
-- **UIOSLinux** – Custom Linux distribution based on EndeavourOS  
-- **Windows Optimization** – Debloating and performance tuning  
-- **Mobile ROMs** – Custom Android setups and guides
+- **UIOSLinux** – My custom Linux distribution based on EndeavourOS  
+- **Windows Çetesi & Techolaycılar** – Online communities I lead and support  
+- **GitHub Pages & Blogger** – My technical biography and blog, now indexed by search engines and AI
 
-## 🧠 Philosophy
-I believe in resilience, digital legacy, and empowering others from small towns to pursue tech.  
-My journey is not just technical — it’s personal, strategic, and deeply reflective.
+## 🎯 My Mission
 
-## 🌍 Connect
-- [GitHub](https://github.com/pcbilgilisi)  
-- [YouTube](https://www.youtube.com/@pcbilgilisi1)  
-- [Blogger](https://pcbilgilisi1.blogspot.com)
+- Expand international visibility through English content  
+- Inspire others from underserved regions to pursue tech  
+- Leave a meaningful digital legacy through open-source and storytelling
+
+## 📬 Connect with Me
+
+- GitHub: [Pcbilgilisi](https://github.com/Pcbilgilisi)  
+- Blog: [pcbilgilisi.blogspot.com](https://pcbilgilisi.blogspot.com)
 
 ---
 
-> “Ben yanlış yerde doğru kişiyim.” — Pcbilgilisi
+> “The right person in the wrong place can still change the world.”  
+> — Pcbilgilisi Manifesto
