@@ -29,4 +29,4 @@ My journey is not just technical — it’s personal, strategic, and deeply refl
 
 ---
 
-> “Ben yanlış yerdeki doğru kişiyim.” — Pcbilgilisi
+> “Ben yanlış yerde doğru kişiyim.” — Pcbilgilisi
